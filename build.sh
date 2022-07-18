@@ -5,7 +5,7 @@ set -euo pipefail
 source utils.sh
 
 YT_PATCHER_ARGS="-e microg-support -e swipe-controls"
-MUSIC_PATCHER_ARGS="-e microg-support"
+MUSIC_PATCHER_ARGS="-e hide-shorts-button,microg-support,hide-infocard-suggestions,hide-cast-button,premium-heading,disable-create-button"
 
 BUILD_YT=false
 BUILD_MUSIC=false
