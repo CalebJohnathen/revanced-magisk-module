@@ -1,6 +1,6 @@
 {
-  "version": "v17.27.39",
-  "versionCode": 20220718,
-  "zipUrl": "https://github.com/CalebJohnathen/revanced-magisk-module/releases/download/20220718/yt-revanced-magisk-v17.27.39-noarch.zip",
-  "changelog": "https://raw.githubusercontent.com/CalebJohnathen/revanced-magisk-module/update/latest_build.log"
+  "version": "v17.32.35 ",
+  "versionCode": 20220720,
+  "zipUrl": "https://github.com/CalebJohnathen/revanced-magisk-module/releases/download/20220720/youtube-revanced-magisk-v17.32.35-all.zip",
+  "changelog": "https://raw.githubusercontent.com/CalebJohnathen/revanced-magisk-module/update/latest_build.md"
 }
